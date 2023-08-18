@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+}
+#status , #start , #number_of_objects {
+    font-size: 18px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: rgb(0, 140, 175);
+    background-color: aliceblue;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    margin-top: 130px;
+    border-radius: 10px;
+    box-shadow: 5, 5, 5, rgb(156, 156, 238);
+    border: 2px solid rgb(155, 202, 249);
+}
+heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 23px;
+}
